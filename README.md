@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **Manju-Maharjan-BA/Manju-Maharjan-BA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Education
+==========
+-Graduate Research Certificate | Central Queensland University
+-Master of Information System | Central Queensland University 
+-Bachelor of Information Management| National College of Computer studies 
